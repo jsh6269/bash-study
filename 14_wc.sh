@@ -1,2 +1,2 @@
 find . -name "*.sh"
-ls | wc -lhelp
+ls -1 | wc -l
